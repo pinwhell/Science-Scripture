@@ -8,6 +8,9 @@ We wrote three short introductions, each speaking in the language that might fee
 - **[INTRO-For-Physicists.md](./docs/intros/INTRO-For-Physicists.md)**  
   For scientists, physicists, philosophers of physics — focused on foundations, coherence, and what QM really does (and does not) demand metaphysically.
 
+- **[INTRO-For-Neuroscientists.md](./docs/intros/INTRO-For-Neuroscientists.md)**  
+  For neuroscientists, cognitive scientists, philosophers of mind — exploring brain dynamics, contingency, consciousness, and why meaning and agency cannot be reduced to neural mechanisms alone (without denying any neuroscience).
+
 - **[INTRO-For-Theologians.md](./docs/intros/INTRO-For-Theologians.md)**  
   For pastors, theologians, biblical scholars, apologists — starting from Scripture and seeing how quantum contingency resonates with core Christian claims about creation, providence, and the Logos.
 
