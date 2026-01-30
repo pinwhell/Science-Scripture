@@ -17,6 +17,10 @@ We wrote three short introductions, each speaking in the language that might fee
 - **[INTRO-For-Believers.md](./docs/intros/INTRO-For-Believers.md)**  
   For everyday followers of Jesus, students, small-group friends — simple wonder, no jargon, just the joy of discovering that science might be whispering something the Gospels have said all along.
 
+**The Fruits: Formal Syntheses**  
+As this conversation matures, it has begun to yield "Fruits" — formal technical documents that bridge the gap between Quantum Mechanics, General Relativity, and the Logos. These are not just ideas; they are rigorous frameworks for unification:
+- **[Explore the Fruits (QM-GR Synthesis Index)](./fruits/fruits.md)**
+
 **From there you can go deeper:**  
 - Science-first path → [PCI-Science-To-Scripture.md](./PCI-Science-To-Scripture.md)  
 - Scripture-first path → [PCI-Scripture-To-Science.md](./PCI-Scripture-To-Science.md)  
