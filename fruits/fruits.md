@@ -18,9 +18,15 @@ This project has yielded several mature, technical "Fruits" — formal syntheses
 - **[Equation Recovery Synthesis](./Equation-Recovery-Synthesis.md)**  
   The formal realization of the recovery plan, deriving the Schrödinger and Einstein equations as effective structural descriptions within the PAI/PCI framework.
 
-### 4. Early Numerical Explorations
+### 4. Numerical Probes & Verification
 - **[Numerical Toy Demo](./Numerical-Toy-Demo.md)**  
-  A minimal 4-qubit Python demonstration showing that local perturbations induce measurable responses in entanglement entropy—the first "baby step" toward testing informational geometry.
+  A minimal Python demonstration showing that local perturbations induce measurable responses in entanglement entropy—the first structural proof-of-life for informational geometry.
+- **[Phase 2: Quantitative First Law Verification](./Phase-2-Probes.md)**  
+  Numerical results confirming Ising CFT scaling ($c \approx 0.5$) and verifying the First Law proportionality with $1.00$ precision.
+- **[Phase 3: Proto-Geometric Response Probes](./Phase-3-Probes.md)**  
+  Kinematic probes of the informational vacuum under stress-tensor proxies, establishing causal diamond response and relative entropy stability.
+- **[Phase 4: Conditional Reconstruction Tests](./Phase-4-Reconstruction.md)**  
+  Compositional analysis verifying linear superposition and additivity of entanglement responses under multi-site Hamiltonian energy proxies.
 
 ---
 
