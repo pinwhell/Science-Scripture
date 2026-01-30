@@ -18,6 +18,10 @@ This project has yielded several mature, technical "Fruits" — formal syntheses
 - **[Equation Recovery Synthesis](./Equation-Recovery-Synthesis.md)**  
   The formal realization of the recovery plan, deriving the Schrödinger and Einstein equations as effective structural descriptions within the PAI/PCI framework.
 
+### 4. Early Numerical Explorations
+- **[Numerical Toy Demo](./Numerical-Toy-Demo.md)**  
+  A minimal 4-qubit Python demonstration showing that local perturbations induce measurable responses in entanglement entropy—the first "baby step" toward testing informational geometry.
+
 ---
 
 **Why "Fruits"?**  
