@@ -1,36 +1,45 @@
-# The Fruits of Science & Scripture
+# The Fruits of Science & Scripture: A Gold-Standard Synthesis
 
-This project has yielded several mature, technical "Fruits" — formal syntheses that explore the "Straight Path" of QM-GR unification. These documents are designed to be scientifically rigorous, philosophically disciplined, and theologically faithful.
+This project provides a rigorous, multi-level framework for unifying Quantum Mechanics (QM) and General Relativity (GR) under the constraints of the **Participatory Actualization Interpretation (PAI)** and **Participatory Christological Interpretation (PCI)**.
 
-### 1. The Unification Charter
-- **[QM-GR Unification Constraint Charter](./QM-GR-Unification.md)**  
-  The foundational guide for unification, establishing the "Straight Path" and strict PAI/PCI guardrails for conceptual hygiene.
+Following the Gold-Standard Audit, the project outputs are structured into three distinct, non-overlapping streams to prevent category errors.
 
-### 2. The Relational Structure
-- **[Relational Structure: Physics Note](./Unified-Relational-Structure-Physics.md)**  
-  A purely structural physical model of spacetime emerging from entanglement (ER=EPR), purified of ontological claims.
-- **[Relational Structure: Interpretive Reflection](./Unified-Relational-Structure-Interpretive.md)**  
-  The non-physical context for the physics note, identifying the Logos as the ground of intelligibility and actuality.
+## 1. Physics-Facing Stream (Zero Theology)
+**Domain**: Structural Correspondence, Kinematic Consistencies, Constraints.
+- **[Constraints on Admissible Geometric Reconstructions](./Physics-Facing-Structure.md)**  
+  The core technical paper. Summary of numerical constraints (Ising CFT, First Law, Linear Superposition) on any semiclassical geometric recovery. Zero metaphysical claims.
 
-### 3. Mathematical Equation Recovery
-- **[Equation Recovery Plan](./Equation-Recovery-Plan.md)**  
-  A strategic roadmap for recovering the fundamental equations of QM and GR from a Tensor Network substrate.
-- **[Equation Recovery Synthesis](./Equation-Recovery-Synthesis.md)**  
-  The formal realization of the recovery plan, deriving the Schrödinger and Einstein equations as effective structural descriptions within the PAI/PCI framework.
+## 2. Philosophy-Facing Stream (Ontology of Actuality)
+**Domain**: Ontology, Normativity, Anti-Illusionism.
+- **[The Ontology of Actuality](./Philosophy-of-Actuality.md)**  
+  A philosophical defense of the distinction between Probability (Physics) and Actuality (Ontology). Arguments against illusionism and for the grounding of normativity.
 
-### 4. Numerical Probes & Verification
-- **[Numerical Toy Demo](./Numerical-Toy-Demo.md)**  
-  A minimal Python demonstration showing that local perturbations induce measurable responses in entanglement entropy—the first structural proof-of-life for informational geometry.
-- **[Phase 2: Quantitative First Law Verification](./Phase-2-Probes.md)**  
-  Numerical results confirming Ising CFT scaling ($c \approx 0.5$) and verifying the First Law proportionality with $1.00$ precision.
-- **[Phase 3: Proto-Geometric Response Probes](./Phase-3-Probes.md)**  
-  Kinematic probes of the informational vacuum under stress-tensor proxies, establishing causal diamond response and relative entropy stability.
-- **[Phase 4: Conditional Reconstruction Tests](./Phase-4-Reconstruction.md)**  
-  Compositional analysis verifying linear superposition and additivity of entanglement responses under multi-site Hamiltonian energy proxies.
+## 3. Theology-Facing Stream (The Ground of Truth)
+**Domain**: Revelation, Christology, Agency.
+- **[Theological Synthesis: The Logos as Ground](./Theological-Synthesis.md)**  
+  The explicit identification of the Ground of Intelligibility with the Person of Christ (Romans 11:36). Clarifies the relationship between Providence and Quantum Indeterminacy.
 
 ---
 
-**Why "Fruits"?**  
-A fruit is the result of a living process. These documents are the result of a living dialogue between the laws of nature and the Word that sustains them. They are offered as a starting point for a science that honors its limits and a faith that loves the truth.
+## 4. Supporting Documentation & Code
+- **[Numerical Proof-of-Concept Code](./numerical_recovery_poc.py)**  
+  The Python codebase implementing the critical Ising CFT probes (Phases 1-4).
+- **[Numerical Toy Demo](./Numerical-Toy-Demo.md)**  
+  A simplified educational walkthrough of the entanglement entropy concept.
+- **[Phase 2 Results: First Law Verification](./Phase-2-Probes.md)**
+- **[Phase 3 Results: Kinematic Structure](./Phase-3-Probes.md)**
+- **[Phase 4 Results: Conditional Reconstruction](./Phase-4-Reconstruction.md)**
+- **[Phase 6 Results: Time & Dynamics](./Phase-6-Dynamics.md)**
+- **[Phase 7 Results: Comparative Dynamics](./Phase-7-Comparative.md)**
+
+---
+
+## 5. Foundational Charters
+- **[The Unification Charter (Constraint Charter)](./QM-GR-Unification.md)**  
+  The original "Constitution" of the project, defining the axioms of Conceptual Hygiene.
+- **[Equation Recovery Plan](./Equation-Recovery-Plan.md)**  
+  The strategic roadmap for the structural correspondence program.
+
+---
 
 > "For from Him and through Him and to Him are all things." (Romans 11:36)
